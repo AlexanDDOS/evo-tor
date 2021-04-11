@@ -12,6 +12,7 @@ Player controls:
 - S: Down
 - A: Left
 - D: Right  
+  
 Simulation controls (works even when the player cell is dead):  
 - Left Shift: Skip move (update simulation frame)
 - Space: Toggle the world/player camera
